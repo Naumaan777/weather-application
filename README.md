@@ -2,7 +2,7 @@
 
 
 ## Overview
-[Your Application Name] is a [brief description of your project]. It allows users to [mention key features or functionality].
+weather application is a real-time application built with React. It allows users to check current weather conditions, temperature, and other relevant data for their location or any city they choose. The app integrates with a weather API to fetch accurate information and presents it in a user-friendly interface. 🌦️🌤️🌧️
 
 ![weather_1](https://github.com/Naumaan777/weather-application/assets/115418662/c818c636-f8fa-48a2-8806-a34aaa5bd68d)
 
